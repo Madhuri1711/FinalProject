@@ -1,0 +1,6 @@
+,_id,product_name,product_searched,price,offer_details,discount_percent,EMI,rating,comment,customer_name,review_age
+0,610cf5473f53c48c23293e1b,"APPLE iPhone 7 (Silver, 32 GB)",iphone-7,"₹24,999",[],20% off,NO EMI Plans,5,Worth every penny,Hemanta Sa,"Sep, 2019"
+1,610cf5543f53c48c23293e1d,"APPLE iPhone 7 (Silver, 32 GB)",iphone-7,"₹24,999",[],20% off,NO EMI Plans,5,Must buy!,Ezzazuddin Huseni,"Oct, 2019"
+2,610cf5613f53c48c23293e1f,"APPLE iPhone 7 (Silver, 32 GB)",iphone-7,"₹24,999",[],20% off,NO EMI Plans,4,Pretty good,suresh b,"Nov, 2018"
+3,6119ff1e8ccbf1d5a18aba0b,"APPLE iPhone 7 (Gold, 32 GB)",iphone-7,"₹24,999",[],20% off,NO EMI Plans,5,Worth every penny,Hemanta Sa,"Sep, 2019"
+4,6119ff2c8ccbf1d5a18aba0d,"APPLE iPhone 7 (Gold, 32 GB)",iphone-7,"₹24,999",[],20% off,NO EMI Plans,5,Must buy!,Ezzazuddin Huseni,"Oct, 2019"
